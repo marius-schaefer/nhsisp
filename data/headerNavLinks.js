@@ -1,7 +1,3 @@
-const headerNavLinks = [
-  { href: '/articles', title: 'Articles' },
-  { href: '/tags', title: 'Tags' },
-  { href: '/about', title: 'About' },
-]
+const headerNavLinks = []
 
 export default headerNavLinks

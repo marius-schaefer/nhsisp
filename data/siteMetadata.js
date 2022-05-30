@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: 'Student Mirror',
-  author: 'Student Mirror',
-  headerTitle: 'Student Mirror',
-  description: 'The Student Mirror Website',
+  title: 'Community Service Opportunities',
+  author: 'Community Service Opportunities',
+  headerTitle: 'Community Service Opportunities',
+  description: 'Quickly find Community Service Opportunities',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
